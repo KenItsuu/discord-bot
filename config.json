@@ -1,0 +1,26 @@
+{
+    "token" : "ODU3NzM4NjA1MTIzOTkzNjAw.YNT9Uw.pUCNQECEKXSzQtmEFDjap_LXqSs",
+    "prefix" : "*",
+    "greeting" : {
+        "channel": "852668568101322756",
+        "role": "852674674563088414"
+    },
+    "reactionRole": {
+        "858072286871420938": {
+            "emojis": [{
+                "id": "858069672373387285",
+                "roles": "858072389946572840"
+            }]
+        },
+        "858071225909116998": {
+            "removable": true,
+            "emojis": [{
+                "name": "858071102030348329",
+                "roles": ["852674797652672612"]
+            }, {
+                "name": "858071062284861481",
+                "roles": "852674736181608478"
+            }]
+        }
+    }
+}
